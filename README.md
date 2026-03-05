@@ -5,6 +5,7 @@
 **Antigravity Awesome Skills** is a curated, battle-tested library of **624 high-performance agentic skills** designed to work seamlessly across all major AI coding assistants from oficcial sourse
 
 This repository has been specially modified using Gemini CLI and Claude Code agent skills for personal use in order to get the most out of it.
+- [Extend Claude with Skills Documentation](https://code.claude.com/docs/en/skills)
 - [Gemini CLI Agent Skills Documentaiton](https://geminicli.com/docs/cli/skills/)
 
 ---
